@@ -280,3 +280,6 @@ https://www.linkedin.com/in/vitoria-lopes-1115b1179
 
 GitHub:
 https://github.com/vislopes
+
+<img width="1362" height="637" alt="Captura de tela 2026-07-19 225953" src="https://github.com/user-attachments/assets/7ab9e8fd-cd7e-4ba8-99b7-6f4011d01613" />
+
