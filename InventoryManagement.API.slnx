@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="appsettings.example.json" />
+  </Folder>
+  <Project Path="InventoryManagement.API.csproj" />
+</Solution>
